@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/calculadora/static/css/main.fcdefbac.css",
+    "main.js": "/calculadora/static/js/main.ef69fa36.js",
+    "static/media/RobotoMono-Thin.ttf": "/calculadora/static/media/RobotoMono-Thin.1a9534fd24de76752477.ttf",
+    "index.html": "/calculadora/index.html",
+    "main.fcdefbac.css.map": "/calculadora/static/css/main.fcdefbac.css.map",
+    "main.ef69fa36.js.map": "/calculadora/static/js/main.ef69fa36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcdefbac.css",
+    "static/js/main.ef69fa36.js"
+  ]
+}
